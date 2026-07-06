@@ -19,15 +19,6 @@ Technologies used
 * Matplotlib
 * Scikit-learn
 
-Project structure
-
-.
-├── main.py
-├── circles_dataset.png
-├── circles_3d.png
-├── svm_decision_boundary.png
-└── README.md
-
 
 Output
 
